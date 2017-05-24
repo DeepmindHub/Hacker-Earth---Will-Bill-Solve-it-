@@ -1,5 +1,3 @@
-#### Code for India Hack Machine Learning Problem : Will Bill solve it? #########
-###### Author : Aayush Agrawal #############
 
 #Initializing Library
 library('readr')
