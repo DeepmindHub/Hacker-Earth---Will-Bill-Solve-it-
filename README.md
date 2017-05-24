@@ -2,7 +2,6 @@
 
 https://www.hackerearth.com/machine-learning-india-hacks-2016/machine-learning/will-bill-solve-it/
 
-Finished - 4th over Public LB(AUC - 0.833, winners(0.834))
 
 ##Problem Statement:
 HackerEarth is a community of programmers. Thousands of hackers solve problems on HackerEarth everyday to improve their programming skills or win prizes. These hackers can be beginners who are new to programming, or experts who know the solution in a blink. There is a pattern to everything, and this problem is about finding those patterns and problem solving behaviours of the users.
